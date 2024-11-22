@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Rahul, an indian full-stack developer 👋🏻:
-🐱‍👤I'm currently learning full-stack development <br />
+🥷I'm currently learning full-stack development <br />
 👨‍🎓Studying Computer Science from J.C. Bose University of Sciences and Technology, YMCA 
 
 

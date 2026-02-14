@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - master
+    - main
 
 jobs:
   generate:
@@ -18,6 +18,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: debug - print github user
+        run: echo "Repository owner is '${{ github.repository_owner }}'"
+
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
